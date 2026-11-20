@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments and local configuration
+.venv/
+venv/
+env/
+.env
+
+# Kaggle credentials and competition data
+kaggle.json
+data/
+input/
+
+# Generated competition output
+submission.csv
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
