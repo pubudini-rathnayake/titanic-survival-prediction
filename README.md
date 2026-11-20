@@ -38,9 +38,7 @@ The Kaggle leaderboard score is a separate evaluation from the local validation 
 
 ## Notebook
 
-The main project notebook is intended to be stored at:
-
-`notebooks/titanic-survival-prediction.ipynb`
+The main project notebook is available at [`notebooks/titanic-survival-prediction.ipynb`](notebooks/titanic-survival-prediction.ipynb).
 
 It documents the workflow from exploratory data analysis through preprocessing, model evaluation, and Kaggle prediction generation.
 
